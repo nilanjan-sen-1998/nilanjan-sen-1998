@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning AI Engineering **Lang-Graph, Lang-Chain**
 
-- 💬 Ask me about **Streamlit, Prompt Engineering**
+- 💬 Ask me about **Data Analysis, Data Science, Exploratory Data Analysis, GenAI Apps, Streamlit, Prompt Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
