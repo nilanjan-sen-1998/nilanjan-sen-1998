@@ -27,7 +27,7 @@ Currently exploring AI Engineering with <b>LangGraph</b> and <b>LangChain</b>.
   <a href="https://linkedin.com/in/nilanjan-sen-b09130193" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="https://www.youtube.com/@matrix_warrior" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
@@ -37,22 +37,96 @@ Currently exploring AI Engineering with <b>LangGraph</b> and <b>LangChain</b>.
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,git,azure,mysql,postgresql" />
+<td align="center" width="96">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+  </a>
+  <br>Python
+</td>
 
-</p>
+<td align="center" width="96">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+  </a>
+  <br>Pandas
+</td>
 
-<p align="left">
+<td align="center" width="96">
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit Learn"/>
+  </a>
+  <br>Scikit Learn
+</td>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<td align="center" width="96">
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="OpenCV"/>
+  </a>
+  <br>OpenCV
+</td>
 
-</p>
+<td align="center" width="96">
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+  </a>
+  <br>Seaborn
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+  </a>
+  <br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+  </a>
+  <br>MySQL
+</td>
+
+<td align="center" width="96">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server"/>
+  </a>
+  <br>SQL Server
+</td>
+
+<td align="center" width="96">
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="48" height="48" alt="Azure"/>
+  </a>
+  <br>Azure
+</td>
+
+<td align="center" width="96">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git"/>
+  </a>
+  <br>Git
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino"/>
+  </a>
+  <br>Arduino
+</td>
+
+</tr>
+</table>
 
 ---
 
