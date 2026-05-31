@@ -31,6 +31,10 @@ Currently exploring AI Engineering with <b>LangGraph</b> and <b>LangChain</b>.
   <a href="https://www.youtube.com/@matrix_warrior" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+
+  <a href="https://my-portfolio-sandy-ten-xz3z7o9wnv.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
