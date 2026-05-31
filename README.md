@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Nilanjan Sen
 
-### Senior Data Scientist from India | AI & GenAI Enthusiast
+### Senior Data Scientist from India | Working At EY GDS | AI & GenAI Enthusiast
 
 <p>
 I build data-driven solutions, GenAI applications, and automation workflows.<br>
